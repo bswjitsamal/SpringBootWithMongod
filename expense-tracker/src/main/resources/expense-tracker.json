@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6628fbb10182e447cf858dc4"
+  },
+  "name": "Movies with friends",
+  "category": "ENTERTAINMENT",
+  "amount": "100",
+  "_class": "com.programming.techie.expensetracker.model.Expense"
+},
+{
+  "_id": {
+    "$oid": "6628fc1f0182e447cf858dc5"
+  },
+  "name": "Party with Family",
+  "category": "RESTAURANT",
+  "amount": "100",
+  "_class": "com.programming.techie.expensetracker.model.Expense"
+},
+{
+  "_id": {
+    "$oid": "6628fdda0182e447cf858dc6"
+  },
+  "name": "Monthly Grovery",
+  "category": "GROCERIES",
+  "amount": "5000",
+  "_class": "com.programming.techie.expensetracker.model.Expense"
+},
+{
+  "_id": {
+    "$oid": "6629007f0182e447cf858dc7"
+  },
+  "name": "School Reunion",
+  "category": "MISC",
+  "amount": "3000",
+  "_class": "com.programming.techie.expensetracker.model.Expense"
+}]
